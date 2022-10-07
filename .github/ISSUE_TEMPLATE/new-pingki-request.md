@@ -1,0 +1,20 @@
+---
+name: New PingKi request
+about: Suggest an idea for this project
+title: "[申请收录]乒器品类-品牌-乒器名称"
+labels: ''
+assignees: ''
+
+---
+
+**乒器(PingKi)的简短描述**
+
+简短描述可以是您的使用体验和想咨询的方向亦或者是疑问，如下格式是比较建议的范例
+
+- Viscaria 我用过最好用的外置底板，喷弹有劲儿
+- 为什么都说红双喜狂飙3跟波尔 ALC 不搭配啊？
+- 红双喜的金彩虹真的非常好打，弹性很好
+
+**乒器(PingKi)的实物图**
+可以是您自己自拍的实物图也可以是该乒器(PingKi)的网购连接，不过我们更建议是该乒器(PingKi)的官网连接。
+Github 的 Issue 支持拷贝粘贴你的贴图，直接贴在 Issue 里面即可。
